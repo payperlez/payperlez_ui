@@ -1,0 +1,24 @@
+body{
+	background-color: #232B5A;
+}
+
+.navbar{
+	box-shadow: none;
+}
+
+.navBtn{
+	background-color: #0C9169;
+	color: #fff;
+	border-radius: 20px;
+}
+
+.navHr{
+	background-color: #FFD200;
+	height: 3px;
+	margin-top: 10px;
+}
+
+.txtRed{
+	color: #fff;
+	/*text-align: center;*/
+}
